@@ -24,9 +24,11 @@ Take a picture of a flower to see its name and classification.
 
 WhatFlower-CoreML combines machine learning and mobile technology to create an educational and interactive experience. It's an excellent example of how CoreML can be used to classify images and bring the natural world closer to users.
 
-![TakePhoto](https://github.com/user-attachments/assets/0da04b62-46a0-43b6-86a8-24792cbfacd3) 
 
-![CropPhoto](https://github.com/user-attachments/assets/d8841837-5a2d-405a-b7c5-80bf40dc09aa)
+![TakePhoto](https://github.com/user-attachments/assets/b87d7967-fb30-40fa-9ffd-0266a91f6c97)
 
-![Information](https://github.com/user-attachments/assets/ed3f689e-af54-458e-995e-45e2ae69eb1e)
 
+![CropPhoto](https://github.com/user-attachments/assets/1fcf1f2b-90e8-4662-9679-63daeca2bdbc)
+
+
+![Information](https://github.com/user-attachments/assets/e40adb76-a697-49b8-a2bf-d6e709f61064)
