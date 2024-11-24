@@ -31,4 +31,7 @@ WhatFlower-CoreML combines machine learning and mobile technology to create an e
 ![CropPhoto](https://github.com/user-attachments/assets/1fcf1f2b-90e8-4662-9679-63daeca2bdbc)
 
 
-![Information](https://github.com/user-attachments/assets/e40adb76-a697-49b8-a2bf-d6e709f61064)
+![Information](https://github.com/user-attachments/assets/f4a49a07-5281-48fd-8b1d-7163cb581335)
+
+
+
