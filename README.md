@@ -1,5 +1,4 @@
-![WhatsApp Image 2024-10-03 at 6 26 57 PM](https://github.com/user-attachments/assets/554bea95-6631-4500-a6ef-d7521f7bc801)# *WhatFlower-CoreML* 🌸
-WhatFlower is an AI-powered flower recognition app that identifies various types of flowers using CoreML. With this app, users can learn the names of different flowers simply by snapping a picture.
+🌸 WhatFlower is an AI-powered flower recognition app that identifies various types of flowers using CoreML. With this app, users can learn the names of different flowers simply by snapping a picture.
 
 # *Features*
 
